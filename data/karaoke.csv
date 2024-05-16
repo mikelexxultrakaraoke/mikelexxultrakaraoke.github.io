@@ -38,6 +38,7 @@ Artist,"Song ID",Song Title
 30 Seconds To Mars,MK-692-108,Walk On Water
 311,MK-128-15,All Mixed Up
 311,MK-619-01,Amber
+38 Special,MK-803-39,Chain Lightnin'
 38 Special,MK-168-08,Hold On Loosely
 4 Non Blondes,MK-684-63,Morphine & Chocolate
 4 Non Blondes,7546-11,What's Up
@@ -521,7 +522,6 @@ Alter Bridge,MK-699-26,Peace Is Broken
 Alter Bridge,MK-699-25,Watch Over You
 Alvin Garrett,MK-741-34,By Myself
 Alvin Stardust,MK-670-110,I Feel Like Buddy Holly
-Amanda Marshall,MK-568-08,Beautifiul Goodbye
 Amanda Marshall,MK-692-59,Beautiful Goodbye
 Amanda Marshall,MK-692-58,Believe In You
 Amanda Marshall,MK-153-03,Birmingham
@@ -541,7 +541,7 @@ America,7509-13,Sister Golden Hair
 America,7535-12,Tin Man
 American Authors,MK-590-11,Best Day Of My Life
 American Hi-Fi,MK-76-02,Flavor Of The Week
-Amin�,MK-670-111,Caroline
+Amin,MK-670-111,Caroline
 Amy Grant,MK-364-01,Baby Baby
 Amy Grant,MK-600-03,Big Yellow Taxi
 Amy Grant,MK-104-01,Like I Love You
@@ -563,7 +563,7 @@ Andante Andante,MK-715-05,Mamma Mia! Here We Go Again
 Andra Day,MK-692-55,Rise Up
 Andrea Bocelli,MK-769-29,Besame Mucho
 Andrea Bocelli & Dua Lipa,MK-699-23,If Only
-Andrea Bocelli & Sarah Brightman,MK-542-03,Time To Say Goodbye (Con Te Partir�)
+Andrea Bocelli & Sarah Brightman,MK-542-03,Time To Say Goodbye (Con Te Partir)
 Andrea Bocelli & Sarah Brightman,MK-542-02,Time To Say Goodbye (English)
 Andrew Gold,MK-664-06,Thank You For Being A Friend (Golde
 Andrew W.K.,MK-239-01,Party Hard
@@ -1271,6 +1271,7 @@ Beck,7584-12,Loser
 Beck,MK-691-187,Up All Night
 Beck,MK-554-07,Where It's At
 Becky G,MK-600-07,Shower
+Bedouin Soundclash,MK-803-37,Walls Fall Down
 Bedouin Soundclash,MK-351-16,When The Night Feels my song
 "Bee Gees, The",MK-246-16,Boogie Child
 "Bee Gees, The",MK-246-01,Don't Forget To Remember
@@ -2358,8 +2359,19 @@ Carl Perkins,MK-655-65,Jive After Five
 Carl Perkins,MK-523-09,Matchbox
 Carl Smith,MK-656-30,If Teardrops Were Pennies
 Carla Thomas,7550-15,Gee Whiz (Look At His Eyes)
+Carly Pearce,MK-803-36,Closer To You
+Carly Pearce,MK-803-35,Diamondback
 Carly Pearce,MK-691-58,Every Little Thing
+Carly Pearce,MK-803-34,Hide The Wine
+Carly Pearce,MK-803-33,If My Name Was Whiskey
+Carly Pearce,MK-803-32,It Wont Always Be Like This
+Carly Pearce,MK-803-31,Next Girl
+Carly Pearce,MK-803-30,Should've Known Better
+Carly Pearce,MK-803-29,Show Me Around
+Carly Pearce,MK-803-28,What He Didn't Do
 Carly Pearce & Ashley McBryde,MK-716-64,Never Wanted To Be That Girl
+Carly Pearce & Lee Brice,MK-803-27,I Hope You're Happy Now
+Carly Pearce & Patty Loveless,MK-803-26,Dear Miss Loretta
 Carly Pearl,MK-800-22,Pronoia
 Carly Rae Jepsen,MK-516-06,Call Me Maybe
 Carly Rae Jepsen,MK-629-09,I Really Like You
@@ -3387,6 +3399,7 @@ Daughtry,MK-350-17,Home
 Daughtry,MK-345-06,It's Not Over
 Daughtry,MK-389-01,No Surprise
 Daughtry,MK-357-15,Over You
+Daughtry & Lizzy Hale,MK-803-25,Separate Ways (Worlds Apart)
 Daughtry & Slash,MK-670-136,What I Want
 Dave & Amp Fredo,MK-690-142,Funky Friday
 Dave Berry,MK-651-31,Crying Game
@@ -4295,6 +4308,7 @@ Elle King,MK-798-35,My Neck My Back (Explicit)
 Elle King,MK-613-07,Playing For Keeps
 Elle King,MK-710-49,Under The Influence
 Elle King,MK-710-48,Where The Devil Don't Go
+Elle King & Miranda Lambert,MK-803-24,Drunk (And I Don't Wanna Go Home)
 Ellie Goulding,MK-550-10,Anything Could Happen
 Ellie Goulding,MK-664-58,Army
 Ellie Goulding,MK-602-03,Burn
@@ -6218,11 +6232,12 @@ Hanson,MK-26-07,If Only
 Hanson,MK-70-03,Mmm Bop
 Hanson,MK-19-15,This Time Around
 Hanson,MK-98-13,Weird
+Hardy,MK-762-12,Give Heaven Some Hell
 Hardy,MK-756-08,Jack
+Hardy,MK-803-23,Rednecker
+Hardy,MK-786-19,Unapologetically Country As Hell
 Hardy & Lainey Wilson,MK-749-18,Wait In The Truck
 Harem Scarem,MK-689-31,Honestly (Acoustic)
-Hardy,MK-762-12,Give Heaven Some Hell
-Hardy,MK-786-19,Unapologetically Country As Hell
 Harlequin,MK-709-17,I Did It For Love
 Harlequin,MK-271-05,Innocence
 Harlequin,MK-709-16,Superstitious Feeling
@@ -6620,6 +6635,7 @@ Ja Rule,MK-62-07,Between Me And You
 Jace Everett,MK-410-12,Bad Things
 Jack Black,MK-761-11,Peaches (Super Mario Bros Movie 2023)
 Jack Greene,MK-688-83,There Goes My Everything
+Jack Harlow,MK-803-22,Lovin On Me
 Jack Ingram,MK-658-84,Lips Of An Angel
 Jack Ingram,MK-658-83,Measure Of A Man
 Jack Jersey,MK-671-93,Silvery Moon
@@ -7055,6 +7071,7 @@ Jo Dee Messina,MK-293-09,I Wish
 Jo Dee Messina,MK-322-09,My Give A Damn's Busted
 Jo Dee Messina,MK-27-10,That's The Way
 Jo Dee Messina & Tim McGraw,MK-202-02,Bring On The Rain
+Jo Lynn Turner,MK-803-21,Endlessly
 Jo Stafford,MK-647-06,You Belong To Me
 Joan Armatrading,MK-664-31,Love And Affection
 Joan Baez,MK-611-14,The Night They Drove Old Dixie Down
@@ -8044,7 +8061,6 @@ Kylie Minogue,MK-687-16,Dancing
 Kylie Minogue,MK-687-15,Stop Me From Falling
 Kylie Minogue,MK-673-18,This Wheel's On Fire
 Kyper,MK-208-11,Tic Tac Toe
-L.L. Cool J,MK-130-11,Going Back To Cali
 L.M.F.A.O,MK-403-03,Party Rock Anthem
 L.M.F.A.O,MK-412-01,Sexy And I Know It
 L.M.F.A.O & Lil' Jon,MK-545-11,Shots
@@ -8096,6 +8112,7 @@ Lady Gaga,MK-673-22,Million Reasons
 Lady Gaga,MK-673-23,Perfect Illusion
 Lady Gaga,MK-373-13,Poker Face
 Lady Gaga,MK-396-15,Speechless
+Lady Gaga,MK-803-19,Speechless (Acoustic)
 Lady Gaga,MK-798-25,Stupid Love
 Lady Gaga,MK-687-06,The Cure
 Lady Gaga,MK-405-08,The Edge Of Glory
@@ -8547,10 +8564,13 @@ Lizzo,MK-707-14,Good As Hell
 Lizzo,MK-697-03,Juice
 Lizzo,MK-707-13,Truth Hurts
 Lizzo & Cardi B,MK-737-07,Rumours
+LL Cool J,MK-803-18,Around The Way Girl
 LL Cool J,MK-540-10,Doin' It
+LL Cool J,MK-130-11,Going Back To Cali
 LL Cool J,MK-1414-05,I Need Love
 LL Cool J,MK-62-09,Imagine That
 LL Cool J,7586-07,Mamma Said Knock You Out
+LL Cool J,MK-803-17,Phenomenon
 Lloyd Price,7531-03,Personality
 LMNT,MK-229-08,Hey Juliet
 Lo-Fedelity Allstars,MK-729-19,Battleflag
@@ -10433,6 +10453,7 @@ Notorious B.I.G. & Tupac,MK-595-09,Runnin' (Dying To Live)
 Nu Breed & Jesse Howard,MK-768-11,Welcome To My House
 Nu Flavor,MK-104-13,Heaven
 Nu Shooz,MK-595-03,I Can't Wait
+Nu Shooz,MK-803-16,Point Of No Return
 NWA,MK-582-07,F#*k Tha Police
 NWA,MK-758-13,Straight Out Of Compton
 O'Jays,7533-05,Love Train
@@ -12718,6 +12739,7 @@ Smash Mouth,MK-277-04,You Are My Number One
 "Smashing Pumpkins, The",MK-242-09,Tonight Tonight
 "Smashing Pumpkins, The",MK-59-14,Zero
 Smile Empty Soul,MK-415-06,Silhouettes
+"Smiths, The",MK-803-14,Bigmouth Strikes Again
 "Smiths, The",MK-197-09,How Soon Is Now
 "Smiths, The",MK-654-16,Unhappy Birthday
 Smokey Robinson And The Miracles,MK-395-02,More Love
@@ -13045,6 +13067,7 @@ Steve Wariner,MK-532-07,Every Little Whisper
 Steve Wariner,MK-18-05,Faith In You
 Steve Wariner,MK-623-15,It Won't Be Over You
 Steve Wariner,MK-107-14,Life's A Highway
+Steven Rodriguez,MK-803-12,The Devil Wears Lace
 Steven Tyler,MK-673-150,I Make My Own Sunshine
 Stevie B,MK-79-14,Because I Love You ( The Postman Song )
 Stevie Brock,MK-268-03,All For Love
@@ -13171,7 +13194,7 @@ Sugar Ray,MK-176-08,Answer The Phone
 Sugar Ray,MK-378-05,Every Morning
 Sugar Ray,MK-06-05,Falls Apart
 Sugar Ray,MK-142-04,Fly
-Sugar Ray,MK-277-12,Is She Really Going Out With Him ?
+Sugar Ray,MK-277-12,Is She Really Going Out With Him?
 Sugar Ray,MK-135-05,Someday
 Sugar Ray,MK-77-07,When It's Over
 Sugarcult,MK-381-04,Memory
@@ -13247,6 +13270,7 @@ Suzi Quatro,MK-702-19,Wild One
 Suzi Quatro & Chris Norman,MK-800-09,Stumblin In
 Suzi Quatro & The Jordanaires,MK-702-18,Singing With Angels
 Suzy Bogguss,MK-109-03,Someday Soon
+Sweet Sensation,MK-803-10,Hooked On You
 Swedish House Mifia,MK-553-06,Don't You Worry Child
 Swedish House Mifia & Parell,MK-572-13,One (Your Name)
 Sweeny Todd,MK-270-03,Roxy Roller
@@ -13550,6 +13574,7 @@ The Bates,MK-644-22,Billie Jean
 The Bells,MK-797-04,Stay Awhile
 The Box,MK-769-04,Closer Together
 The Box,MK-777-16,My Dreams Of You
+The Cab,MK-803-09,Bounce
 The Civil Wars,MK-660-06,Barton Hollow
 The Civil Wars,MK-671-49,From This Valley
 The Civil Wars,MK-532-13,Poison & Wine
@@ -14044,8 +14069,10 @@ Traffic,MK-346-01,Dear Mr. Fantasy
 "Tragically Hip, The",MK-674-170,Cordelia
 "Tragically Hip, The",MK-289-05,Courage
 "Tragically Hip, The",MK-680-81,Courage (For Hugh Maclennan)
+"Tragically Hip, The",MK-803-08,Crack My Spine Like A Whip
 "Tragically Hip, The",MK-700-40,Every Time You Go
 "Tragically Hip, The",MK-674-171,Fiddler's Green
+"Tragically Hip, The",MK-803-07,Fireworks
 "Tragically Hip, The",MK-724-29,Gift Shop
 "Tragically Hip, The",MK-724-30,Grace Too
 "Tragically Hip, The",MK-725-13,Greasy Jungle
@@ -14053,7 +14080,7 @@ Traffic,MK-346-01,Dear Mr. Fantasy
 "Tragically Hip, The",MK-725-23,Highway Girl
 "Tragically Hip, The",MK-724-31,I'll Believe In You
 "Tragically Hip, The",MK-746-01,In A World Possessed By The Human Mind
-"Tragically Hip, The",MK-724-32,It's A Good LifeIf you Don't Weaken
+"Tragically Hip, The",MK-724-32,It's A Good Life If you Don't Weaken
 "Tragically Hip, The",MK-289-04,Little Bones
 "Tragically Hip, The",MK-724-33,Lionized
 "Tragically Hip, The",MK-289-09,Locked In The Trunk Of A Car
@@ -14069,6 +14096,7 @@ Traffic,MK-346-01,Dear Mr. Fantasy
 "Tragically Hip, The",MK-724-37,Scared
 "Tragically Hip, The",MK-724-38,She Didn't Know
 "Tragically Hip, The",MK-289-10,Silver Jet
+"Tragically Hip, The",MK-308-03,Small Town Bringdown
 "Tragically Hip, The",MK-728-22,So Hard Done By
 "Tragically Hip, The",MK-724-28,The Dire Wolf
 "Tragically Hip, The",MK-763-06,Thompson Girl

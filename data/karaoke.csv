@@ -60,6 +60,7 @@ Artist,"Song ID",Song Title
 54-40,MK-728-09,I Go Blind
 54-40,MK-805-46,Lies To Me
 54-40,MK-851-35,Love You All
+54-40,MK-868-64,Miss You
 54-40,MK-728-16,Nice To Luv You
 54-40,MK-728-10,Ocean Pearl
 54-40,MK-728-11,One Day In Your Life
@@ -717,10 +718,12 @@ AnnenMayKantereit,MK-825-181,Tom's Dinner
 Annie Lennox & The Eurythmics,MK-185-16,Here Comes The Rain Again
 Annie Lennox & The Eurythmics,MK-761-16,I Need A Man
 Annie Lennox & The Eurythmics,MK-205-01,Little Bird
+Annie Lennox & The Eurythmics,MK-868-63,Love Is A Stranger
 Annie Lennox & The Eurythmics,MK-865-21,Miracle Of Love
 Annie Lennox & The Eurythmics,MK-545-13,Missionary Man
 Annie Lennox & The Eurythmics,MK-321-05,Sweet Dreams (Are Made Of These)
 Annie Lennox & The Eurythmics,MK-262-08,Thin Line Between Love And Hate
+Annie Lennox & The Eurythmics,MK-868-62,Why
 Annie Lennox & The Eurythmics,MK-545-14,Would I lie to You
 Annie Lennox & The Eurythmics & Al Green,MK-131-06,Put A Little Love In Your Heart
 Anouk,MK-597-14,Nobody's Wife
@@ -751,6 +754,7 @@ April Wine,MK-266-02,Enough Is Enough
 April Wine,MK-266-04,I Like To Rock
 April Wine,MK-266-09,I Wouldn't Want To Lose Your Love
 April Wine,MK-165-01,Just Between You And Me
+April Wine,MK-868-61,Love Has Pemembered Me
 April Wine,MK-724-17,Oowatanite
 April Wine,MK-266-06,Rock And Roll Is A Vicious Game
 April Wine,MK-266-05,Roller
@@ -1121,6 +1125,7 @@ Barry Manilow,7511-07,I Write The Songs
 Barry Manilow,MK-644-157,Jump Shout Boogie
 Barry Manilow,MK-114-14,Looks Like We Made It
 Barry Manilow,MK-866-33,Somewhere Down The Road
+Barry Manilow,MK-868-60,This One's For You
 Barry Mann,7554-08,Who Put The Bomp
 Barry Martin,MK-208-03,Hummers In Heaven
 Barry McGuire,MK-23-07,Eve Of Destruction
@@ -1617,6 +1622,7 @@ Billy Gilman,MK-27-11,One Voice
 Billy Idol,MK-804-50,Bitter Taste
 Billy Idol,MK-221-05,Cradle Of Love
 Billy Idol,MK-221-01,Dancing With Myself
+Billy Idol,MK-868-59,Don't Forget Me When I'm Gone
 Billy Idol,MK-221-08,Eyes Without A Face
 Billy Idol,MK-221-07,Flesh For Fantasy
 Billy Idol,MK-221-02,Hot In The City
@@ -1975,6 +1981,7 @@ Bob Seger & The Silver Bullet Band,MK-211-04,We've Got Tonight
 Bob Seger & The Silver Bullet Band,MK-211-09,You'll Accomp'ny Me
 Bob Welch,MK-713-37,Ebony Eyes
 Bob Welch,MK-11-14,Sentimental Lady
+Bob Wills,MK-868-58,Time Changes Everything
 Bobbie Gentry,7543-14,Ode To Billie Joe
 "Bobby ""Boris"" Pickett",7526-03,Monster Mash
 Bobby Bare,MK-796-45,Detroit City
@@ -1985,6 +1992,7 @@ Bobby Bloom,MK-623-12,Montego Bay
 Bobby Brown,MK-30-03,Good Enough
 Bobby Brown,MK-372-01,My Prerogative
 Bobby Caldwell,MK-713-36,Love Lite
+Bobby Caldwell,MK-868-57,Open Your Eyes
 Bobby Caldwell,7582-08,What You Won't Do For Love
 Bobby Curtola,MK-647-58,Aladdin
 Bobby Curtola,MK-670-77,Destination Love
@@ -2321,6 +2329,7 @@ Browns,MK-691-107,Three Bells
 Bruce Channel,MK-79-02,Hey Baby (Dirty Dancing)
 Bruce Cockburn,MK-270-09,Lovers In A Dangerous Time
 Bruce Cockburn,MK-807-29,Wondering Where The Lions Are
+Bruce Hornsby & The Range,MK-868-56,Fields Of Gray
 Bruce Hornsby & The Range,MK-796-43,The Way It Is
 Bruce Springsteen,MK-670-219,Ain't Good Enough For You
 Bruce Springsteen,MK-691-106,Badlands
@@ -2536,6 +2545,7 @@ Cage The Elephant,MK-730-07,Cold Cold Cold
 Cage The Elephant,MK-530-14,Shake Me Down
 Cage The Elephant,MK-730-08,Trouble
 Cake,MK-312-16,I Will Survive
+Cake,MK-868-54,Love You Madly
 Cake,MK-125-03,Never There
 Cake,MK-691-81,Sheep Go To Heaven
 Cake,MK-166-01,"Short Skirt, Long Jacket"
@@ -2760,6 +2770,7 @@ Casting Crowns,MK-848-49,Scars In Heaven
 Cat Mother & All Night News Boys,MK-815-15,Good Old Rock 'N' Roll
 Cat Stevens,MK-354-10,Father And Son
 Cat Stevens,MK-754-16,First Cut Is The Deepest
+Cat Stevens,MK-868-53,I've Got A Thing About Seeing My Grandson Growing Old
 Cat Stevens,MK-66-03,Moonshadow
 Cat Stevens,7575-07,Morning Has Broken
 Cat Stevens,7548-06,Peace Train
@@ -2851,6 +2862,7 @@ Chappell Roan,MK-834-35,California
 Chappell Roan,MK-834-34,Casual
 Chappell Roan,MK-834-33,Coffee
 Chappell Roan,MK-834-32,Femininomenon
+Chappell Roan,MK-868-52,The Giver
 Chappell Roan,MK-834-31,Good Luck Babe
 Chappell Roan,MK-834-30,Guilty Pleasure
 Chappell Roan,MK-834-29,Hot To Go
@@ -2862,6 +2874,7 @@ Chappell Roan,MK-834-24,Picture You
 Chappell Roan,MK-826-34,Pink Pony Club
 Chappell Roan,MK-824-25,Red Wine Supernova
 Chappell Roan,MK-834-23,Super Graphic Ultra Modern Girl
+Chappell Roan,MK-868-51,The Subway
 Charlatans,MK-679-85,Plastic Machinery
 Charlene,MK-679-84,I've Never Been To Me
 Charles Aznavour,MK-691-36,Yesterday When I Was Young
@@ -3427,6 +3440,7 @@ Collective Soul,MK-312-13,Where The River Flows
 Collective Soul,MK-843-49,Why Pt 2
 Collin James,MK-744-22,Breakin' Up The House
 Collin James,MK-744-21,Cadillac Baby
+Collin James,MK-868-49,Chicks 'N Cars (And The Third World War)
 Collin James,MK-850-29,I'm Losing You
 Collin James,MK-725-19,Just Came Back
 Collin James,MK-812-36,Keep On Loving Me Baby
@@ -3532,11 +3546,14 @@ Corb Lund,MK-854-28,Redneck Rehab
 Corb Lund,MK-854-27,Truck Got Stuck
 Corb Lund & Hayes Carll,MK-554-03,Bible On The Dash
 Corbin Easton,MK-561-15,A Little more Country Than That
+Corey Hart,MK-868-48,Boy In The Box
 Corey Hart,MK-807-26,Can't Help Falling In Love
 Corey Hart,MK-807-25,I Ain't Enough
 Corey Hart,MK-807-24,I Am By Your Side
+Corey Hart,MK-868-47,Love Hurts
 Corey Hart,MK-690-158,Never Surrender
 Corey Hart,MK-760-24,Sunglasses At Night
+Corey Hart,MK-868-46,That Ain't Enough
 Corey Smith,MK-760-23,Drinkin Again
 Corey Smith,MK-760-22,Twenty-One
 Corinne Bailey Rae,MK-601-13,Put Your Record On
@@ -5654,6 +5671,7 @@ Fabolous,MK-178-08,Young'n (Holla Back)
 Fabolous & Ashanti,MK-285-02,Into You
 "Fables, The",MK-725-14,Heave Away
 "Fabulous Thunderbirds, The",7545-03,Tuff Enuff
+Fairground Attraction,MK-868-45,Perfect
 Fairport Convention,MK-842-32,I'll Keep It With Mine
 Faith Evans,MK-178-07,I Love You
 Faith Evans,MK-537-02,Love Like this Before
@@ -6238,6 +6256,7 @@ George Benson,MK-253-06,Give Me The Night
 George Benson,MK-654-154,Kisses In The Moonlight
 George Benson,MK-654-153,Lady Love Me
 George Benson,MK-654-152,Moody's Mood
+George Benson,MK-868-44,On Broadway
 George Benson,7525-09,This Masquerade
 George Benson,MK-36-10,Turn Your Love Around
 George Canyon,MK-689-90,I'll Never Do Better Than You
@@ -6420,11 +6439,20 @@ Glass Animals,MK-767-09,Other Side Of Paradise
 Glass Animals,MK-767-08,Pools
 Glass Animals,MK-767-07,Pork Soda
 Glass Animals,MK-767-06,Youth
+Glass Tiger,MK-868-41,After The Dance
+Glass Tiger,MK-868-40,Animal Heart
+Glass Tiger,MK-868-39,Closer To You
 Glass Tiger,MK-781-05,Diamond Sun
 Glass Tiger,MK-11-08,Don't Forget Me (When I'm Gone)
+Glass Tiger,MK-868-38,I Will Be There
+Glass Tiger,MK-868-37,I'm Still Searching
+Glass Tiger,MK-868-36,Looking At A Picture
 Glass Tiger,MK-812-30,My Song
 Glass Tiger,MK-781-06,My Town
 Glass Tiger,MK-781-07,Someday
+Glass Tiger,MK-868-34,Thin Red Line
+Glass Tiger,MK-868-33,Touch Of Your Hand
+Glass Tiger,MK-868-32,You're What I Look For
 Glee,MK-654-151,Any Way You Want It-Lovin Touchin Squeezin
 Glee,MK-654-150,Funny Girl
 Glee,MK-644-115,Highway To Hell
@@ -6442,9 +6470,11 @@ Glenn Frey,MK-768-18,You Belong To The City
 Glenn Medeiros,MK-09-08,Nothing's Gonna Change My Love For You
 Glenn Miller,7528-08,Chattanooga Choo Choo
 Glenn Morrison & Islove,MK-591-10,Goodbye
-Gloria Estefan,MK-365-01,Anything for you
-Gloria Estefan,MK-689-74,Breaking Up Is Hard To Do
-Gloria Estefan,MK-364-02,Conga
+Gloria Estefan & Miami Sound Machine,MK-868-31,1-2-3
+Gloria Estefan & Miami Sound Machine,MK-365-01,Anything for you
+Gloria Estefan & Miami Sound Machine,MK-689-74,Breaking Up Is Hard To Do
+Gloria Estefan & Miami Sound Machine,MK-364-02,Conga
+Gloria Estefan & Miami Sound Machine,MK-868-30,Rhythm Is Gonna Get You
 Gloria Gaynor,MK-252-06,I Never Knew
 Gloria Gaynor,MK-182-11,I Will Survive
 Gloria Gaynor,7549-09,Never Can Say Goodbye
@@ -7365,6 +7395,8 @@ Jackson Brown,MK-248-03,Doctor In My Eyes
 Jackson Brown,MK-248-14,Running On Empty
 Jackson Brown,MK-527-15,Shape Of A Heart
 Jackson Five,MK-708-48,Blame It On The Boogie
+Jackson Taylor & The Sinners,MK-868-27,Cocaine
+Jackson Taylor & The Sinners,MK-868-28,He Stopped Loving Her Today - Purple Rain
 Jackyl,MK-388-05,"Lumberjack, The"
 Jacob Banks,MK-806-09,Chainsmoking
 Jacob Banks,MK-819-38,In The Name Of Love
@@ -7766,6 +7798,7 @@ Jim Reeves,MK-688-38,An Old Christmas Card
 Jim Reeves,MK-623-13,Billy Bayou
 Jim Reeves,MK-629-12,Distant Drums
 Jim Reeves,7544-06,He'll Have To Go
+Jim Reeves,MK-868-26,I Love You Because
 Jim Reeves,7589-07,Welcome To My World
 Jim Reeves & Patsy Cline,MK-109-16,Distant Drums
 Jim Stafford,MK-688-37,Cow Patti
@@ -7995,6 +8028,7 @@ John Michael Montgomery,7515-04,I Swear
 John Michael Montgomery,MK-303-09,Letters From Home
 John Michael Montgomery,7594-13,Life's A Dance
 John Michael Montgomery,7593-08,Sold (Grundy Country Auction Incident)
+John Morgan & Jason Aldean,MK-868-25,Friends Like That
 John Newman,MK-647-26,Come & Get It
 John Newman,MK-577-07,Love Me Again
 John Prine,MK-523-12,Ain't Hurtin' Nobody
@@ -9420,6 +9454,9 @@ Lipps Inc.,MK-248-04,Funky Town
 Lisa Brokop,MK-46-06,Before He Kissed Me
 Lisa Brokop,MK-319-05,How Do I Let Go
 Lisa Brokop,MK-234-07,She Can't Save Him
+Lisa Lisa And The Cult Jam,MK-868-24,All Cried Out
+Lisa Lisa And The Cult Jam,MK-868-23,Head To Toe
+Lisa Lisa And The Cult Jam,MK-868-22,Lost In Emotion
 Lisa Loeb & Nine Stories,MK-322-05,Do You Sleep
 Lisa Loeb & Nine Stories,MK-367-02,I Do
 Lisa Loeb & Nine Stories,MK-98-06,Let's Forget About It
@@ -9538,6 +9575,7 @@ London Grammar,MK-686-81,Non Believer
 London Grammar,MK-686-80,Oh Woman Oh Man
 London Grammar,MK-673-59,Rooting For You
 Lonely Island,MK-654-94,Boombox
+Lonely Island,MK-868-21,Equal Rights (Explicit)
 Lonely Island,MK-377-09,I'm On A Boat
 Lonely Island,MK-793-14,Threw It On The Ground
 Lonely Island & Michael Bolton,MK-734-02,Jack Sparrow
@@ -9789,6 +9827,7 @@ Machine Gun Kelly,MK-706-44,Bloody Valentine (Explicit)
 Machine Gun Kelly & Camilla Cabello,MK-673-77,Bad Things (Duet)
 Machine Gun Kelly & Friends,MK-744-13,I Think I'm OK
 Machine Gun Kelly & X Ambassadors & Bebe Rexha,MK-686-47,Home
+MacKenzie Porter,MK-868-20,These Days
 Macklemore & Ryan Lewis,MK-559-04,Can't Hold Us
 Macklemore & Ryan Lewis,MK-559-07,Cowboy Boots
 Macklemore & Ryan Lewis,MK-559-06,Same Love
@@ -10037,6 +10076,7 @@ Mark Wills,MK-706-34,Nineteen Somethin'
 Mark Wills,MK-100-14,She's In Love
 Marky Mark,7546-14,Good Vibrations
 Marlilyn McCoo & Billy Davis Jr.,MK-638-04,You Don't Have To Be A Star
+Marlon Clark,MK-868-20,Tennessee Whiskey (REGGAE VERSION)
 Maroon 5,MK-605-10,Animals
 Maroon 5,MK-553-08,Daylight
 Maroon 5,MK-395-14,Give A Little Bit
@@ -10131,6 +10171,7 @@ Marty Robbins,MK-656-21,I'll Go On Alone
 Marty Robbins,MK-686-08,Just Married
 Marty Robbins,7544-08,"My Woman, My Life, My Wife"
 Marty Robbins,MK-829-27,Ride Cowboy Ride
+Marty Robbins,MK-868-18,Shackles & Chains
 Marty Robbins,MK-798-21,Singing The Blues
 Marty Robbins,MK-696-75,Some Memories Just Won't Die
 Marty Robbins,MK-829-26,The Master's Call
@@ -10551,6 +10592,7 @@ Michael Kiwanuka,MK-812-18,Home Again
 Michael McDonald,MK-685-71,I Keep Forgettin'
 Michael McDonald,MK-654-80,Signed Sealed Delivered I'm Yours
 Michael McDonald & Patti Labelle,MK-91-04,On My Own
+Michael Mitchell,MK868-17,Land Of The Silver Birch
 Michael Murphy,MK-705-37,Maybe This Time
 Michael Murphy,7552-13,What's Forever For
 Michael Murphy,7575-05,Wild Fire
@@ -10577,6 +10619,7 @@ Michelle Wright,MK-362-10,He Would Be Sixteen
 Michelle Wright,MK-748-30,Nobody's Girl
 Michelle Wright,MK-350-08,Take It Like A Man
 Mick Jagger,MK-177-03,God Gave Me Everything
+Mick Jagger,MK-868-16,Just Another Night
 Mick Jagger & David Bowie,MK-762-05,Dancing In The Street
 Mickey & Sylvia,MK-339-04,Love Is Strange
 Mickey Avalon,MK-685-67,My Dick
@@ -10838,6 +10881,7 @@ Morgan Wallen,MK-820-69,I Wrote The Book
 Morgan Wallen,MK-820-68,If I Ever Get You Back
 Morgan Wallen,MK-820-67,If I Know Me
 Morgan Wallen,MK-850-14,I'm The Problem
+Morgan Wallen,MK-868-15,Just In Case
 Morgan Wallen,MK-820-66,Keith Whitley
 Morgan Wallen,MK-759-19,Last Night
 Morgan Wallen,MK-820-64,Lies Lies Lies
@@ -12253,6 +12297,7 @@ Paula Cole,MK-364-10,Feelin' Love
 Paula Cole,MK-04-15,I Believe In Love
 Paula Cole,MK-134-13,Me
 Paula Cole,7583-08,Where Have All The Cowboys Gone
+Peabo Bryson,MK-868-14,Why Goodbye
 Peabo Bryson & Regina Bell,MK-166-08,A Whole New World (Aladdin)
 Peabo Bryson & Roberta Flack,7600-01,Tonight I Celebrate My Love For You
 Peabo Bryson & Roberta Flack Bryson,MK-684-16,Maybe
@@ -12399,6 +12444,7 @@ Phil Vassar,MK-199-01,Just Another Day In Paradise
 Phil Vassar,MK-545-04,Six Pack Summer
 Phil Vassar,MK-658-41,This Is My Life
 Phil Vassar,MK-658-40,Woman In My Life
+Philip English,MK-868-12,Noreen Bawn
 Philosopher Kings,MK-849-15,Cry
 Philosopher Kings,MK-311-15,Castles In The Sand
 Philosopher Kings,MK-849-14,Hurts To Love You
@@ -12666,6 +12712,7 @@ Priscilla Block,MK-768-10,Thick Thighs
 Prism,MK-843-11,Young & Restless
 "Proclaimers, The",MK-114-02,I'm Gonna Be (500 Miles)
 "Proclaimers, The",MK-332-02,I'm On My Way
+"Proclaimers, The",MK-868-11,Sunshine On Leith
 Procol Harum,MK-354-06,A Whiter Shade Of Pale
 Procol Harum,MK-378-08,Conquistador
 "Prodigy, The",MK-616-07,Nasty
@@ -12695,9 +12742,11 @@ Pursuit Of Happiness,MK-851-05,Cigarette Dangles
 Pursuit Of Happiness,MK-797-08,Food
 Pursuit Of Happiness,MK-768-09,Hard To Laugh
 Pursuit Of Happiness,MK-270-07,I'm An Adult Now
+Pursuit Of Happiness,MK-868-10,She's So Young
 Puscifer,MK-683-82,Conditions Of My Parole
 Pussy Cat,MK-624-02,The Pussy Cat Song
-Pussy Cat Dolls,MK-312-08,Don�t Cha
+Pussycat,MK-868-09,Mississippi
+Pussy Cat Dolls,MK-312-08,Don't Cha
 Pussy Cat Dolls,MK-654-49,Fever
 Pussy Cat Dolls,MK-360-15,I Don't Need A Man
 Pussy Cat Dolls,MK-311-06,Stickwitu
@@ -13362,6 +13411,7 @@ Roch Voisine,MK-566-05,I Will Always Love You
 Roch Voisine,MK-584-04,I'll Always Be There
 Roch Voisine,MK-585-06,Take Me Home Country Roads
 Rock Of Ages,MK-654-38,Just Like Paradise & Nothin' But A Good Time
+Rocky Burnette,MK-868-08,Tired Of Toein The Line
 Rockin Sidney,MK-695-57,Good For The Gander
 Rockin Sidney,MK-695-56,Jalapeno Lena
 Rockin Sidney,MK-695-55,Joe Pete Is In The Bed
@@ -13516,6 +13566,7 @@ Roxette,MK-234-11,The Look
 Roy Clark,MK-590-03,Yesterday When I Was Young
 Roy Hamilton,MK-674-110,Don't Let Go
 Roy Hamilton,MK-674-111,You Can Have Her
+Roy Head,MK-868-07,Treat Her Right
 Roy Orbison,MK-237-10,Blue Angel
 Roy Orbison,MK-237-11,Blue Bayou
 Roy Orbison,MK-703-11,California Blue
@@ -13755,6 +13806,7 @@ Sara Evans,MK-313-17,A Real Fine Place To Start
 Sara Evans,MK-366-15,As If
 Sara Evans,MK-198-07,Born To Fly
 Sara Evans,MK-312-17,Cheatin
+Sara Evans,MK-868-06,"Fool, I'm A Woman"
 Sara Evans,MK-198-01,I Could Not Ask For More
 Sara Evans,MK-658-27,Missing Missouri
 Sara Evans,MK-366-01,No Place That Far
@@ -14169,6 +14221,7 @@ Shinedown,MK-324-08,Simpleman
 Shinedown,MK-546-07,Sound Of Madness
 Shinedown,MK-806-05,State Of My Head
 Shinedown,MK-546-08,The Crow & The Butterfly
+Shinedown,MK-868-05,Three Six Five
 Shinedown,MK-858-06,Through The Ghost
 Shinedown,MK-546-13,Unity
 Shinedown,MK-547-02,Yer Majesty
@@ -14805,11 +14858,13 @@ Stevie Wonder & Ariana Grande,MK-674-01,Faith (Duet)
 "Sting & Police, The",MK-665-28,I Saw Three Ships
 "Sting & Police, The",MK-255-11,If I Ever Lose My Faith In You
 "Sting & Police, The",MK-850-07,If You Love Somebody Set Them Free
+"Sting & Police, The",MK-868-04,It's Probably Me
 "Sting & Police, The",MK-846-09,King Of Pain
 "Sting & Police, The",MK-655-12,Love Is The Seventh Wave
 "Sting & Police, The",MK-255-13,Message In A Bottle
 "Sting & Police, The",MK-255-14,Roxanne
 "Sting & Police, The",MK-255-15,Roxanne '97 (Puff Daddy Remix)
+"Sting & Police, The",MK-868-03,Seven Days
 "Sting & Police, The",MK-847-05,Shape Of My Heart
 "Sting & Police, The",MK-255-16,Spirits In The Material World
 "Sting & Police, The",MK-255-17,Twenty Five To Midnight
@@ -14870,6 +14925,7 @@ Stone Temple Pilots,MK-157-06,Sour Girl
 Stone Temple Pilots,MK-205-11,Vasoline
 Stonewall Jackson,MK-395-05,Don't Be Angry
 Stonewall Jackson,MK-656-02,Life To Go
+Stonewall Jackson,MK-868-02,Shackles And Chains
 Storm Large,MK-798-12,(WTF Is) Ladylike (Explicit)
 Stormzy,MK-674-03,Big For Your Boots
 Stormzy,MK-702-30,Crown
@@ -14892,6 +14948,7 @@ Stroke 9,MK-08-14,Little Black Backpack
 Struggle Jennings & Caitlynne Curtis,Mk-749-02,God We Need You Now
 "Strumbellas, The",mk-777-04,Spirits
 Stryper,MK-283-12,Honestly
+Sturgill Simpson,MK-868-01,Life Ain't Fair
 Sturgill Simpson,MK-843-08,Life Of Sin
 Styx,MK-828-02,Lady
 Stxy,MK-681-72,Love At First Sight

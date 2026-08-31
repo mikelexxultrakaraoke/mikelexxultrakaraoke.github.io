@@ -77,6 +77,7 @@ Artist,"Song ID",Song Title
 A 3,MK-51-13,Woke Up This Morning (The Sopranos TV Theme)
 A Day To Remember,MK-699-54,All I Want
 A Day To Remember,MK-699-53,All Signs Point To Lauderdale
+A Day To Remember,MK-784-31,Downfall Of Us All
 A Day To Remember,MK-699-52,If It Means A Lot To You
 A Day To Remember,MK-699-51,It's Complicated
 A Fine Frenzy,MK-644-165,Almost Lover
@@ -634,6 +635,7 @@ Amy Studt,MK-307-10,Just A Little Girl
 Amy Winehouse,MK-370-09,Back To Black
 Amy Winehouse,MK-566-10,F#*k Me Pumps
 Amy Winehouse,MK-415-04,Love Is A Losing Game
+Amy Winehouse,MK-871-46,Our DAy Will Come
 Amy Winehouse,MK-356-07,Rehab
 Amy Winehouse,MK-414-02,Valerie
 Amy Winehouse,MK-364-15,You Know I'm No Good
@@ -701,6 +703,7 @@ Anna Nalick,MK-326-10,Breathe (2 Am)
 Anne Marie,MK-670-117,Alarm
 Anne Marie,MK-670-118,Ciao Adios
 Anne Murray,MK-692-52,A Stranger In My Place
+Anne Murray,MK-871-45,Bidin My Time
 Anne Murray,MK-843-54,Broken Hearted Me
 Anne Murray,7512-07,Could I Have This Dance
 Anne Murray,7524-06,Danny's Song
@@ -714,6 +717,7 @@ Anne Murray,MK-818-40,Song For Mira
 Anne Murray,MK-836-37,Walk Right Back
 Anne Murray,7511-03,You Needed Me
 Anne Murray,MK-869-39,You're A Part Of Me
+Anne Wilson,MK-871-44,Strong
 Anne-Marie,MK-692-49,2002
 Anne-Marie,MK-692-48,Ciao Adios
 Anne-Marie,MK-699-21,Perfect To Me
@@ -998,6 +1002,7 @@ Bachman-Turner Overdrive,7519-07,Takin' Care Of Business
 Bachman-Turner Overdrive,MK-714-36,Thank You For The Feelin'
 Bachman-Turner Overdrive,7587-08,You Ain't Seen Nothing Yet
 Backstreet Boys,MK-127-07,All I Have To Give
+Backstreet Boys,MK-871-43,Anywhere For You
 Backstreet Boys,MK-134-03,As Long As You Love Me
 Backstreet Boys,MK-698-69,Chances
 Backstreet Boys,MK-177-04,Drowning
@@ -1664,6 +1669,7 @@ Billy Joel,MK-121-09,We Didn't Start The Fire
 Billy Joel,MK-744-27,Why Should I Worry
 Billy Joel,MK-121-05,You May Be Right
 Billy Ocean,MK-600-09,Caribbean Queen
+Billy Ocean,MK-871-42,Suddenly
 Billy Paul,7523-14,Me & Mrs. Jones
 Billy Preston,MK-815-18,Will It Go Round In Circles
 Billy Ray Cyrus,7515-06,Achy Breaky Heart
@@ -2262,6 +2268,7 @@ Brian McKnight,MK-28-12,"6,8,12"
 Brian McKnight,MK-04-06,Back At One
 Brian McKnight,MK-851-28,Crazy Love
 Brian McKnight,MK-176-03,Love Of My Life
+Brian McKnight,MK-871-40,Never Felt This Way
 Brian Poole & The Tremeoloes,MK-691-120,Do You Love Me
 Brian Protheroe,MK-856-49,Pinball
 Brian Setzer Orchestra,MK-725-15,Blue Christmas
@@ -2343,6 +2350,7 @@ Bruce Springsteen,7577-06,Born To The Run
 Bruce Springsteen,MK-691-103,Brilliant Disguise
 Bruce Springsteen,MK-274-04,Cover Me
 Bruce Springsteen,MK-275-01,Dancing In The Dark
+Bruce Springsteen,MK-871-39,Darlington County
 Bruce Springsteen,7580-05,Glory Days
 Bruce Springsteen,MK-691-99,Human Touch
 Bruce Springsteen,MK-691-98,Hungry Heart
@@ -2690,6 +2698,7 @@ Carolyn Dawn Johnson,MK-388-11,Georgia
 Carolyn Dawn Johnson,MK-388-12,I Don't Want You To Go
 Carolyn Dawn Johnson,MK-326-07,Simple Life
 "Carpenters, The",7534-09,Close To You
+"Carpenters, The",MK-871-38,For All We Know
 "Carpenters, The",MK-847-41,I Have You
 "Carpenters, The",MK-848-50,I Know I Need To Be In Love
 "Carpenters, The",MK-691-56,Jambalaya On The Bayou
@@ -2760,7 +2769,9 @@ Carrie Underwood & Ludacris,MK-849-28,The Champion
 "Cars, The",MK-360-04,Tonight She Comes
 "Cars, The",MK-348-06,You Might Think
 "Cars, The",MK-658-118,You're All I've Got Tonight
+Carter Faith,MK-871-36,Betty
 Cascada,MK-752-06,Everytime We Touch
+Cascada,MK-871-35,Truly Madly Deeply
 Cascada,MK-366-03,What Hurts The Most
 Cascades,7526-07,Rhythm Of The Rain
 Casey James,MK-691-49,Let's Don't Call It A Night
@@ -3114,7 +3125,8 @@ Chris Young,MK-792-13,Right Now
 Chris Young,MK-690-194,Where I Go When I Drink
 Chris Young,MK-658-114,You're Gonna Love Me
 Chris Young,MK-820-137,Young Love & Saturday Nights
-Chris Young & Cassadee Pope,MK-671-44,Think Of You (Duet)
+Chris Young & Cassadee Pope,MK-671-44,Think Of You
+Chris Young & Kane Brown,MK-871-34,Famous Friends
 Christina Aguilera,MK-316-13,Ain't No Other Man
 Christina Aguilera,MK-334-03,Beautiful
 Christina Aguilera,MK-26-12,Blessed
@@ -3896,6 +3908,7 @@ David Frizzell,MK-35-14,I'm Gonna Hire A Wino To Decorate Our Home
 David Frizzell & Shelly West,7516-15,You're The Reason God Made Oklahoma
 David Gates,MK-853-32,Goodbye Girl
 David Gray,MK-851-26,Babylon
+David Gray,MK-871-33,Be Mine
 David Gray,MK-865-23,Please Forgive Me
 David Guetta,MK-654-188,Baby When The Light
 David Guetta,MK-654-187,Delirious
@@ -3962,7 +3975,6 @@ David Wilcox,MK-261-08,Too Cool
 "Davis Sisters, The",MK-35-11,I Forgot More Then You Will Ever Know
 Dawes,MK-841-32,All Your Favroite Bands
 Dawn Penn,MK-602-01,You Don't Love Me ( No No No)
-Day To Remember,MK-784-31,Downfall Of Us All
 Daya,MK-670-143,Sit Still Look Pretty
 Days Of The New,MK-04-05,Enemy
 Days Of The New,MK-322-04,Touch Peel And Stand
@@ -5501,6 +5513,7 @@ Engelbert Humperdinck,MK-647-44,I Want To Wake Up With You
 Engelbert Humperdinck,MK-647-43,I'm Leaving You
 Engelbert Humperdinck,MK-647-42,In Time
 Engelbert Humperdinck,MK-647-41,Just Say I Love Her
+Engelbert Humperdinck,MK-871-31,Les Bicyclettes De Belsize
 Engelbert Humperdinck,MK-710-36,Lonely Is A Man Without Love
 Engelbert Humperdinck,MK-594-05,Love Me With All Your Heart
 Engelbert Humperdinck,MK-258-13,Quando Quando Quando
@@ -8097,6 +8110,7 @@ Johnny Cash,MK-343-12,Guess Things Happen That Way
 Johnny Cash,MK-325-16,Hurt
 Johnny Cash,MK-390-02,I Got Stripes
 Johnny Cash,7507-03,I Walk The Line
+Johnny Cash,MK-871-28,I Won't Back Down
 Johnny Cash,MK-588-08,I've Been Everywhere
 Johnny Cash,MK-665-87,Man Comes Around
 Johnny Cash,MK-343-05,Man In Black
@@ -8588,6 +8602,7 @@ Kellie Pickler,MK-362-05,The Things That Never Cross A Man's Mind
 Kelly Clarkson,MK-672-183,A Moment Like This
 Kelly Clarkson,MK-644-96,Already Gone
 Kelly Clarkson,MK-334-15,Anytime
+Kelly Clarkson,MK-871-27,Beautiful Disaster (Live)
 Kelly Clarkson,MK-356-03,Because Of You
 Kelly Clarkson,MK-301-09,Behind These Hazel Eyes
 Kelly Clarkson,MK-334-08,Breakaway
@@ -8747,6 +8762,7 @@ Khalid &ft Kane Brown,MK-697-19,Saturday Nights (Remix)
 Khia,MK-744-16,My Neck My Back (Lick It)
 Kid Cudi,MK-389-04,Day 'N' Nite
 Kid Cudi,MK-782-16,Erase Me
+Kid Cudi,MK-871-26,Pursuit Of Happiness (Steve Aoki Remix)
 Kid Cudi Vs. Crookers,MK-537-01,Day 'N' Night
 Kid Laroi,MK-778-32,Love Again
 Kid Laroi,MK-778-31,Thousand Miles
@@ -8986,7 +9002,8 @@ Kygo & OneRepublic,MK-687-17,Stranger Things
 Kygo & Sandro Cavazza,MK-697-16,Happy Now
 Kygo & Selena Gome,MK-673-16,It Ain't Me
 Kygo & Whitney Houston,MK-707-34,Higher Love
-Kyle & Lil Yachty,MK-678-14,I spy
+Kyle & Lil Yachty,MK-678-14,I Spy
+Kylie Minogue,MK-871-25,All The Lovers
 Kylie Minogue,MK-380-14,Can't Get You Out Of My Head
 Kylie Minogue,MK-687-16,Dancing
 Kylie Minogue,MK-687-15,Stop Me From Falling
@@ -9136,10 +9153,11 @@ Laura Branigan,MK-726-36,Ti Amo
 Laura Marano,MK-673-34,Boombox
 Laura Pausini,MK-322-17,Surrender
 Lauren Alaina,MK-866-26,Ladies In The 90's
+Lauren Daigle,MK-871-24,Rescue
 Lauren Daigle,MK-697-14,You Say
 Lauren Jauregui,MK-686-135,Expectations (Clean)
 Lauren Jauregui,MK-697-13,More Than That
-Lauryn Hill & Refugee Camp All Stars,MK-310-04,Can�t Take My Eyes Off Of You
+Lauryn Hill & Refugee Camp All Stars,MK-310-04,Can't Take My Eyes Off Of You
 Lauryn Hill & Refugee Camp All Stars,MK-567-13,The Sweetest Thing
 Lauve & Troye Sivan,MK-697-12,I'm So Tired
 Lavern Baker,MK-686-131,I Cried A Tear
@@ -10030,6 +10048,7 @@ Mariah Carey,MK-137-03,Butterfly
 Mariah Carey,MK-20-01,Can't Take That Away (Mariah's Theme)
 Mariah Carey,MK-101-05,Heartbreaker
 Mariah Carey,7514-11,Hero
+Mariah Carey,MK-871-22,Melt Away
 Mariah Carey,MK-104-15,My All
 Mariah Carey,MK-778-27,O Holy Night
 Mariah Carey,MK-08-07,Thank God I Found You
@@ -11142,6 +11161,7 @@ Muse & Collateral Damage,MK-654-73,United States Of Eurasia
 "Musical ""Cats""",7599-05,Memory
 "Musical ""Chicago""",MK-385-01,All That Jazz
 "Musical ""Chicago""",MK-404-09,Cell Block Tango
+"Musical ""Cinderella"" (1950 Film) (Ilene Woods)",MK-871-21,A Dream Is A Wish Your Heart Makes
 "Musical ""Encanto""",MK-716-25,Surface Pressure
 "Musical ""Encanto""",MK-716-24,We Don't Talk About Bruno
 "Musical ""Fiddler On The Roof""",MK-720-32,Anatevka
@@ -11436,6 +11456,7 @@ My Chemical Romance,MK-754-05,House Of Wolves
 My Chemical Romance,MK-684-97,I Don't Love You
 My Chemical Romance,MK-814-08,I Never Told you What I Do For A Living
 My Chemical Romance,MK-802-24,It's Not A Fasion Statement It's A Deathwish
+My Chemical Romance,MK-871-20,Kill All Your Friends
 My Chemical Romance,MK-696-21,Sing
 My Chemical Romance,MK-604-07,Teenagers
 My Chemical Romance,MK-815-07,Thank You For The Venom
@@ -11509,6 +11530,7 @@ Natalie Cole,MK-848-20,Mona Lisa
 Natalie Cole,MK-355-05,Orange Colored Sky
 Natalie Cole,MK-829-05,Smile
 Natalie Cole,MK-135-12,Snowfall On The Sahara
+Natalie Cole,MK-871-19,Someone that I Used To Love
 Natalie Cole,MK-793-08,Starting Over Again
 Natalie Cole,MK-800-11,Straighten Up And Fly Right
 Natalie Cole,MK-851-18,The Very Thought Of You
@@ -12103,6 +12125,7 @@ Ozzy Osbourne,MK-286-07,Flying High Again
 Ozzy Osbourne,MK-177-07,Gets Me Through
 Ozzy Osbourne,MK-363-08,Goodbye To Romance
 Ozzy Osbourne,MK-848-16,Hellraiser
+Ozzy Osbourne,MK-871-18,I Don't Want To Stop
 Ozzy Osbourne,MK-286-01,"Mama, I'm Coming Home"
 Ozzy Osbourne,MK-359-12,Mr. Crowley
 Ozzy Osbourne,MK-849-18,Mr. Tinkertrain
@@ -12185,6 +12208,7 @@ Papa Roach & Chris Daughtry,MK-791-18,Scars
 Paper Lace,MK-522-13,"Billy, Don't Be A Hero"
 Paper Lace,MK-247-01,The Night Chicago Died
 Paramore,MK-788-13,Brick By Boring Brick
+Paramore,MK-871-17,Decode
 Paramore,MK-684-35,Decoy
 Paramore,MK-654-57,Fast In My Car
 Paramore,MK-516-03,Fences
@@ -12457,6 +12481,7 @@ Phil Collins,MK-118-14,Land Of Confusion
 Phil Collins,MK-118-11,Never A Time
 Phil Collins,MK-118-08,One More Night
 Phil Collins,7517-09,Separate Lives
+Phil Collins,MK-871-15,Something Happened On The Way To Heaven
 Phil Collins,MK-118-15,Sussudio
 Phil Collins,MK-118-13,"Tonight, Tonight, Tonight"
 Phil Collins,MK-69-12,True Colors
@@ -13760,6 +13785,7 @@ Salem Ilese,MK-703-03,Mad At Disney
 Saliva,MK-295-15,Always
 Saliva,MK-151-11,Click Click Boom
 Saliva,MK-674-120,Here With You
+Saliva,MK-871-14,I Walk Alone )Batist's Theme)
 Saliva,MK-277-13,Rest In Peace
 Sally Sossa & Lil Durk,MK-807-06,Star Song
 Salt 'N Peppa,MK-80-10,Let's Talk About Sex
@@ -13782,6 +13808,7 @@ Sam Cooke,MK-331-10,You Send Me
 Sam Feldt & Kimberly Anne,MK-655-16,Show Me Love
 Sam Hunt,MK-674-121,Body Like A Back Road
 Sam Hunt,MK-660-10,Breakup In A Small Town
+Sam Hunt,MK-871-13,Cop Car
 Sam Hunt,MK-703-02,Downtown's Dead
 Sam Hunt,MK-660-09,House Party
 Sam Hunt,MK-644-167,Leave The Night On
@@ -14193,6 +14220,7 @@ Shawn Mendes & Amp Khalid,MK-682-50,Youth
 Shawn Mendes & Camila Cabello,MK-673-106,I Know What You Did Last Summer
 Shawn Mendes & Camila Cabello,MK-702-41,Senorita
 Shawn Mendes & Justin Bieber,MK-702-42,Monster
+Shawn Mullins,MK-871-11,Beautiful Wreck
 Shawn Mullins,MK-126-02,Lullaby
 She Wants Revenge,MK-673-107,Tear You Apart
 She Wants Revenge,MK-673-108,These Things
@@ -14694,7 +14722,10 @@ Stabbing Westward,MK-563-10,What Do I Have To Do
 Stabilo,MK-853-08,Everybody
 Stabilo,MK-853-07,Flawed Design
 Stabilo,MK-853-06,One More Pill
+Stacie Orrico,MK-971-09,I Promise
 Stacie Orrico,MK-294-06,Instead
+Stacie Orrico,MK-871-07,Stuck
+Stacie Orrico,MK-871-06,There's Got To Be More To Life
 Stacy Q,MK-43-05,Two Of Hearts
 Staind,MK-355-10,Epiphany
 Staind,MK-345-20,Everything Changes
@@ -16255,6 +16286,7 @@ TV Themes,MK-207-13,Green Acres
 TV Themes,MK-207-14,Happy Days
 TV Themes,MK-674-186,"Jeffersons, The"
 TV Themes,MK-207-23,Rawhide
+TV Themes,MK-871-04,The Adventures Of Gummi Bears
 TV Themes,MK-207-18,The Love Boat
 TV Themes,MK-207-19,The Monkees
 TV Themes,MK-66-16,Theme From Cheers
@@ -16993,6 +17025,7 @@ Zombies,MK-867-01,She's Not There
 Zwan,MK-260-16,Honestly
 ZZ Top,MK-168-07,Beer Drinkers And Hell Raisers
 ZZ Top,MK-168-09,Blue Jean Blues
+ZZ Top,MK-971-01,Cheap Sunglasses
 ZZ Top,MK-680-01,Fool For Your Stockings
 ZZ Top,7535-13,Gimme All Your Lovin'
 ZZ Top,MK-168-04,"I'm Bad, I'm Nationwide"
@@ -17001,6 +17034,7 @@ ZZ Top,MK-249-12,Legs
 ZZ Top,MK-822-01,Precious And Grace
 ZZ Top,MK-351-08,Rough Boy
 ZZ Top,7509-08,Sharp Dressed Man
+ZZ Top,MK-871-01,Tube Snake Boogie
 ZZ Top,MK-329-04,Tush
 ZZ Top,MK-153-02,What's Up With That
 ZZ Ward,MK-644-06,Move Like U Stole It
